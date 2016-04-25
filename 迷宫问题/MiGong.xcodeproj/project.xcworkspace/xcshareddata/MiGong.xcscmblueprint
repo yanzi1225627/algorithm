@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "089de8e3-a7ca-436b-99d2-6ab2443742d1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "089de8e3-a7ca-436b-99d2-6ab2443742d1" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "089de8e3-a7ca-436b-99d2-6ab2443742d1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F7174870-9179-4FF9-B8D3-7E2CB028A3FE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "089de8e3-a7ca-436b-99d2-6ab2443742d1" : "work\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MiGong",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "workspaces\/c++\/MiGong\/MiGong.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/123.57.239.209",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "089de8e3-a7ca-436b-99d2-6ab2443742d1"
+    }
+  ]
+}
